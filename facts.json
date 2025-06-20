@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Octavia Butler",
+    "fact": "Pioneering sci-fi author who tackled race, gender, and power.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Zora Neale Hurston",
+    "fact": "Anthropologist and author of 'Their Eyes Were Watching God'.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Dr. Patricia Bath",
+    "fact": "Invented a laser procedure for cataract treatment.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Guion Bluford",
+    "fact": "First Black American astronaut in space.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Marsha P. Johnson",
+    "fact": "Trans activist who helped lead the Stonewall uprising.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Juneteenth",
+    "fact": "Marks June 19, 1865, when the last enslaved people in Texas were freed.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Dr. Cornel West",
+    "fact": "Philosopher and activist known for work on race and justice.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Otis Boykin",
+    "fact": "Invented electrical resistors used in computers, radios, and pacemakers.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Freedom Rides",
+    "fact": "Integrated bus rides challenging segregation in the South.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Hazel Scott",
+    "fact": "Jazz and classical pianist who broke racial barriers in entertainment.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Barack Obama",
+    "fact": "First Black President of the United States.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Ketanji Brown Jackson",
+    "fact": "First Black woman on the U.S. Supreme Court.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Claudette Colvin",
+    "fact": "Refused to give up her seat months before Rosa Parks.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Edward Brooke",
+    "fact": "First Black U.S. Senator since Reconstruction.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Angela Davis",
+    "fact": "Activist, scholar, and author known for her work in prison reform and racial justice.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Benjamin Bradley",
+    "fact": "Enslaved boy who built a working steam engine.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Gordon Parks",
+    "fact": "Photographer and filmmaker known for documenting civil rights.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Rebecca Lee Crumpler",
+    "fact": "First Black woman to become a doctor in the U.S.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Charlotte Forten Grimk\u00e9",
+    "fact": "First Black teacher in a white Massachusetts school.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "1963 March on Washington",
+    "fact": "Site of MLK\u2019s 'I Have a Dream' speech.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Spike Lee",
+    "fact": "Filmmaker who reshaped cinema with stories about Black life and justice.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "James Baldwin",
+    "fact": "Writer and activist whose works confronted racial and social issues in America.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Tulsa Race Massacre",
+    "fact": "Attack on the prosperous Black community of Greenwood in 1921.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Mary McLeod Bethune",
+    "fact": "Founder of a school for Black girls and advocate for education.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Lonnie Johnson",
+    "fact": "Inventor of the Super Soaker water gun and NASA engineer.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Brown v. Board of Education",
+    "fact": "1954 Supreme Court case that ended school segregation.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Claudette Colvin",
+    "fact": "Refused to give up her seat on a segregated bus months before Rosa Parks.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Romare Bearden",
+    "fact": "Visual artist celebrated for his vibrant collages.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "James Armistead Lafayette",
+    "fact": "Revolutionary War spy who fed intelligence to Americans.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Madam C.J. Walker",
+    "fact": "America\u2019s first self-made female millionaire through haircare products.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Jo Ann Robinson",
+    "fact": "Organizer of the Montgomery Bus Boycott.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Bayeza Maisha",
+    "fact": "Educator and poet dedicated to youth development.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "bell hooks",
+    "fact": "Cultural critic and educator known for her work on intersectionality.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Lucy Parsons",
+    "fact": "Anarchist and labor activist born into slavery.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Dr. Ruth Simmons",
+    "fact": "First Black president of an Ivy League university (Brown).",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "John Lewis",
+    "fact": "Congressman and lifelong activist who led the march across Edmund Pettus Bridge.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Norbert Rillieux",
+    "fact": "Revolutionized sugar refining with the multiple-effect evaporator.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Paulo Freire",
+    "fact": "Brazilian educator whose work inspired global liberation pedagogy.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Septima Poinsette Clark",
+    "fact": "Educator and civil rights activist who developed citizenship schools.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Nina Simone",
+    "fact": "Singer, songwriter, and activist whose music echoed civil rights themes.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Bayard Rustin",
+    "fact": "Key organizer of the 1963 March on Washington and advisor to Martin Luther King Jr.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Dr. Angela Davis",
+    "fact": "Scholar and professor known for work in feminism, incarceration, and liberation.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Medgar Evers",
+    "fact": "NAACP field secretary who fought for voting rights and was assassinated in 1963.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "The Great Migration",
+    "fact": "Mass relocation of 6 million Black Americans from the South.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Ella Baker",
+    "fact": "Behind-the-scenes force in the civil rights movement who mentored many young activists.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Shirley Chisholm",
+    "fact": "First Black woman elected to Congress.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Kehinde Wiley",
+    "fact": "Painter who reimagines classical portraits with modern Black subjects.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Valerie Thomas",
+    "fact": "NASA physicist who developed 3D imaging technology.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Voting Rights Act of 1965",
+    "fact": "Outlawed discriminatory voting practices.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Mae Jemison",
+    "fact": "First Black woman to travel in space.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Patricia Roberts Harris",
+    "fact": "First Black woman in a presidential cabinet.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Alvin Ailey",
+    "fact": "Choreographer who revolutionized modern dance.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Hiram Revels",
+    "fact": "First Black person to serve in the U.S. Congress.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Langston Hughes",
+    "fact": "Poet of the Harlem Renaissance and voice of Black consciousness.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Robert Smalls",
+    "fact": "Escaped slavery and became a Civil War hero and politician.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Dr. Shirley Jackson",
+    "fact": "Her physics research led to advances in telecommunications technology.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Marie Van Brittan Brown",
+    "fact": "Created the first home security system.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Maya Angelou",
+    "fact": "Renowned poet and author of 'I Know Why the Caged Bird Sings'.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Diane Nash",
+    "fact": "Co-founder of the Student Nonviolent Coordinating Committee and key figure in the Freedom Rides.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Lewis Latimer",
+    "fact": "Improved the carbon filament for the lightbulb.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Mary Ellen Pleasant",
+    "fact": "Abolitionist and entrepreneur who funded revolts.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "The Harlem Renaissance",
+    "fact": "Explosion of Black cultural expression in the 1920s.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "George Washington Carver",
+    "fact": "Developed hundreds of products from peanuts.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Million Man March",
+    "fact": "Historic gathering of Black men in D.C. promoting unity.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "W.E.B. Du Bois",
+    "fact": "Co-founder of the NAACP and sociologist who championed civil rights.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Fred Hampton",
+    "fact": "Chairman of the Illinois chapter of the Black Panther Party, known for his community programs.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Mamie Till-Mobley",
+    "fact": "Mother of Emmett Till, whose courage helped galvanize the civil rights movement.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "The Moynihan Report Response",
+    "fact": "Sparked key debates on systemic oppression.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Oscar Micheaux",
+    "fact": "First major Black American filmmaker.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Augusta Savage",
+    "fact": "Harlem Renaissance sculptor and arts educator.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Dr. John Henrik Clarke",
+    "fact": "Historian and Pan-Africanist who challenged Eurocentric curricula.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Bessie Coleman",
+    "fact": "First Black woman pilot.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Fannie Lou Hamer",
+    "fact": "Voting rights activist and leader of the Mississippi Freedom Democratic Party.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Thurgood Marshall",
+    "fact": "First Black U.S. Supreme Court Justice.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Frances Ellen Watkins Harper",
+    "fact": "Abolitionist, writer, and suffragist.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Dr. Carter G. Woodson",
+    "fact": "Father of Black History Month.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "James Baldwin",
+    "fact": "Author of 'The Fire Next Time' and major cultural critic.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Kimberl\u00e9 Crenshaw",
+    "fact": "Scholar who coined the term 'intersectionality'.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Dr. Molefi Kete Asante",
+    "fact": "Pioneer of Afrocentric theory.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Benjamin Banneker",
+    "fact": "Built America\u2019s first clock and was a surveyor for Washington, D.C.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Jackie Robinson",
+    "fact": "First Black player in Major League Baseball.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "1968 Olympics Black Power Salute",
+    "fact": "Tommie Smith and John Carlos raised fists for civil rights.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Assata Shakur",
+    "fact": "Former Black Liberation Army member, activist, and symbol of resistance.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "Kara Walker",
+    "fact": "Artist known for her powerful silhouette installations.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Kamala Harris",
+    "fact": "First woman, Black and South Asian Vice President.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Colin Powell",
+    "fact": "First Black U.S. Secretary of State.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Jacob Lawrence",
+    "fact": "Painter who chronicled the Great Migration.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Garrett Morgan",
+    "fact": "Invented the three-position traffic signal and gas mask.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Dr. Joy DeGruy",
+    "fact": "Psychologist known for research on Post Traumatic Slave Syndrome.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Carol Moseley Braun",
+    "fact": "First Black woman in the U.S. Senate.",
+    "category": "Trailblazers",
+    "image": ""
+  },
+  {
+    "name": "Booker T. Washington",
+    "fact": "Founder of Tuskegee Institute and proponent of vocational education.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Montgomery Bus Boycott",
+    "fact": "Year-long protest sparked by Rosa Parks' arrest.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Black Panther Party",
+    "fact": "Revolutionary organization focused on self-defense and community programs.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Stokely Carmichael",
+    "fact": "Coined the phrase 'Black Power' and led SNCC during a crucial era.",
+    "category": "Activists",
+    "image": ""
+  },
+  {
+    "name": "The George Floyd Protests",
+    "fact": "Global demonstrations against police brutality in 2020.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "Sarah Boone",
+    "fact": "Improved the ironing board for practical home use.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "Civil Rights Act of 1964",
+    "fact": "Landmark legislation prohibiting discrimination.",
+    "category": "Movements & Moments",
+    "image": ""
+  },
+  {
+    "name": "William Still",
+    "fact": "Helped hundreds escape slavery via the Underground Railroad.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Dr. Ibram X. Kendi",
+    "fact": "Historian and author of 'How to Be an Antiracist'.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Henrietta Lacks",
+    "fact": "Her cells revolutionized medical research, often without her consent.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Dr. Mark Dean",
+    "fact": "Co-inventor of the IBM personal computer.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  },
+  {
+    "name": "John Mercer Langston",
+    "fact": "First Black American elected to public office.",
+    "category": "Unsung Heroes",
+    "image": ""
+  },
+  {
+    "name": "Anna Julia Cooper",
+    "fact": "Educator and author of 'A Voice from the South'.",
+    "category": "Educators & Scholars",
+    "image": ""
+  },
+  {
+    "name": "Jean-Michel Basquiat",
+    "fact": "Neo-expressionist painter who explored Black identity and power.",
+    "category": "Artists & Creatives",
+    "image": ""
+  },
+  {
+    "name": "Granville T. Woods",
+    "fact": "Held over 50 patents and improved railroad and telegraph systems.",
+    "category": "Inventors & Innovators",
+    "image": ""
+  }
+]

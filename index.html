@@ -1,14 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Black Brilliance Generator ✊🏾</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Black Brilliance Generator ✊🏾</h1>
-  <p id="fact-box">Click the button to reveal a random fact!</p>
-  <button onclick="generateFact()">Show Me a Fact</button>
+
+  <!-- === TOP NAVIGATION BAR === -->
+  <div class="navbar">
+    <a href="#" onclick="showGenerator()">Black Brilliance Generator</a>
+
+    <select id="category-select" onchange="generateFact()" class="nav-dropdown">
+      <option value="All">Categories</option>
+      <option value="Activists">Activists</option>
+      <option value="Inventors & Innovators">Inventors</option>
+      <option value="Artists & Creatives">Creatives</option>
+      <option value="Educators & Scholars">Educators</option>
+      <option value="Trailblazers">Trailblazers</option>
+      <option value="Unsung Heroes">Unsung Heroes</option>
+      <option value="Movements & Moments">Movements</option>
+    </select>
+
+    <a href="#" onclick="showFactList()">List of Facts</a>
+    <a href="#">Submit a Fact</a>
+  </div>
+
+  <!-- === SCROLLING BANNER MESSAGE === -->
+  <div class="scrolling-banner">
+    <div class="scrolling-text">
+      <span>Discover inspiring Black figures, moments, and movements — one fact at a time </span>
+      <span>Discover inspiring Black figures, moments, and movements — one fact at a time </span>
+    </div>
+  </div>
+  
+
+  <!-- === FACT GENERATOR SECTION === -->
+  <div id="fact-generator" class="generator-container">
+    <h1>Black Brilliance Generator ✊🏾</h1>
+
+    <div id="fact-box" class="fact-box">
+      Click the button below to reveal a powerful piece of Black brilliance.
+    </div>
+
+    <button onclick="generateFact()"> Random Fact</button>
+
+    <!-- Resource Button -->
+    <div style="margin-top: 2rem;">
+      <a href="https://nmaahc.si.edu/explore/initiatives/black-history-month" target="_blank" class="resource-btn">
+        📚 Want to learn more about Black history?
+      </a>
+    </div>
+  </div>
+
+  <!-- === FACT LIST ACCORDION SECTION === -->
+  <div id="fact-list" style="display: none; padding-top: 100px;">
+    <h1>🗂️ List of Black Brilliance Facts</h1>
+    <div id="accordion-container"></div>
+  </div>
+
+  <!-- === SCRIPT === -->
   <script src="script.js"></script>
 </body>
 </html>

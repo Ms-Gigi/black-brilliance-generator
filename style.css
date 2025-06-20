@@ -1,18 +1,219 @@
-body {
-  font-family: 'Arial', sans-serif;
-  background-color: #111;
-  color: #fff;
-  text-align: center;
-  padding: 2em;
-}
+/* ================================
+   Import Google Font: Inter
+   ================================ */
+   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-button {
-  padding: 10px 20px;
-  font-size: 1rem;
-  background-color: red;
-  color: white;
-  border: none;
-  margin-top: 20px;
-  cursor: pointer;
-  border-radius: 5px;
-}
+   /* ================================
+      Global Body Styling
+      ================================ */
+   body {
+     font-family: 'Inter', sans-serif;
+     background-color: #FFD700;
+     color: #fff;
+     margin: 0;
+     padding: 2rem 1rem;
+     padding-top: 100px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     min-height: 100vh;
+     position: relative; /* Required for ::before to work */
+     z-index: 0;
+   }
+
+   body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url('images/african_pattern.jpg') repeat;
+    background-size: 400px;
+    opacity: 0.09; /* Very faint */
+    z-index: -1;   /* Keep behind all content */
+    pointer-events: none; /* Ensure it doesn't block interaction */
+  }
+  
+   /* ================================
+      Top Navigation Bar
+      ================================ */
+   .navbar {
+     width: 100%;
+     background-color: #111;
+     display: flex;
+     justify-content: center;
+     gap: 3rem;
+     padding: 1rem 0;
+     border-bottom: 2px solid #FFD700;
+     position: fixed;
+     top: 0;
+     left: 0;
+     z-index: 10;
+   }
+   
+   .navbar a {
+     color: #FFD700;
+     text-decoration: none;
+     font-weight: 600;
+     font-size: 1rem;
+     padding: 6px 10px;
+     transition: color 0.3s ease, background-color 0.3s ease;
+   }
+   
+   .navbar a:hover {
+     color: #000;
+     background-color: #FFD700;
+     border-radius: 4px;
+   }
+   
+   .nav-dropdown {
+     background-color: #111;
+     color: #FFD700;
+     border: none;
+     font-weight: 600;
+     font-size: 1rem;
+     padding: 6px 10px;
+     border-radius: 4px;
+     outline: none;
+     appearance: none;
+     cursor: pointer;
+     height: 40px;
+     margin-top: -2px;
+     vertical-align: middle;
+   }
+   
+   .nav-dropdown:hover {
+     background-color: #FFD700;
+     color: #000;
+     border-radius: 4px;
+   }
+   
+   .nav-dropdown option {
+     background-color: #fff;
+     color: #000;
+   }
+   
+   /* ================================
+      Generator Section Wrapper
+      ================================ */
+   #fact-generator {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     width: 100%;
+   }
+   
+   #fact-generator h1 {
+     font-size: 2rem;
+     color: #130301;
+     margin-bottom: 2rem;
+     text-align: center;
+     border-bottom: 2px solid #5a0528;
+     padding-bottom: 0.5rem;
+   }
+   
+   /* ================================
+      Scrolling Banner Text
+      ================================ */
+   .scrolling-banner {
+     width: 100%;
+     overflow: hidden;
+     white-space: nowrap;
+     padding: 0.5rem 0;
+     margin-bottom: 1rem;
+   }
+   
+   .scrolling-text {
+    display: inline-block;
+    white-space: nowrap;
+    will-change: transform;
+    animation: scroll-loop 20s linear infinite;
+   }
+
+   .scrolling-text span {
+    display: inline-block;
+    padding-right: 4rem; /* space between repeats */
+    font-size: 1.1rem;
+    color: #130301;
+    font-weight: 600;
+  }
+
+   
+  @keyframes scroll-loop {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+   }
+   
+   /* ================================
+      Fact Display Box
+      ================================ */
+   .fact-box {
+     background-color: #1a1a1a;
+     color: #eee;
+     padding: 1.5rem;
+     border-radius: 8px;
+     max-width: 700px;
+     text-align: center;
+     box-shadow: 0 4px 15px rgba(255, 0, 0, 0.2);
+     border: 1px solid #025716;
+     font-size: 1.2rem;
+     line-height: 1.6;
+     margin-bottom: 2rem;
+     min-height: 100px;
+   }
+   
+   /* ================================
+      Button Styling
+      ================================ */
+   button {
+     font-size: 1rem;
+     padding: 10px 20px;
+     background: transparent;
+     color: #000;
+     border: 2px solid #5a0528;
+     border-radius: 6px;
+     cursor: pointer;
+     font-weight: bold;
+     transition: all 0.3s ease;
+   }
+   
+   button:hover {
+     background-color: #5a0528;
+     color: #fff;
+   }
+   
+   /* ================================
+      Resource Button Styling
+      ================================ */
+   .resource-btn {
+     display: inline-block;
+     margin-top: 9rem;
+     padding: 10px 20px;
+     background-color: #025716;
+     color: #fff;
+     text-decoration: none;
+     border-radius: 6px;
+     font-weight: bold;
+     transition: background-color 0.3s ease;
+   }
+   
+   .resource-btn:hover {
+     background-color: #013d10;
+   }
+   
+   /* ================================
+      Accordion Content Styling
+      ================================ */
+   .accordion-content {
+     color: #030114;
+     padding: 1rem;
+     border-radius: 6px;
+     margin-bottom: 1rem;
+     max-width: 700px;
+   }
+   
