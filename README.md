@@ -1,14 +1,18 @@
 # Black Brilliance Generator ✊🏾
 
-A simple web app to celebrate Juneteenth by sharing random facts and stories about influential Black figures and moments in history.
+A web app that celebrates Black history by spotlighting trailblazers, creatives, and movements — one powerful fact at a time.
 
-## How It Works
-Click the button to see a random fact drawn from a curated list stored in JavaScript.
+## Features
+- Random fact generator
+- Category dropdown filter
+- Scrolling inspirational banner
+- Accordion-style fact list
+- Clean UI with African pattern background
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+## Built With
+- HTML, CSS, JavaScript
+- Love + Purpose 💛
 
-## Inspiration
-Built in the spirit of Juneteenth to honor Black excellence and educate through small moments of discovery.
+## Coming Soon
+- Submit-a-fact form
+- Offline version
